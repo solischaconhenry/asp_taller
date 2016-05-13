@@ -7,3 +7,20 @@ git push --set-upstream origin numero1	para subirlo
 
 git checkout master
 git merge "nombre de la rama"
+
+
+git branch -d branch1		para borrar un branch
+
+
+git --version
+git clone url
+git add .
+git commit -m "MSG"
+git push
+git status
+
+
+--------
+git branch
+git checkout
+git merge
