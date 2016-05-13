@@ -4,3 +4,6 @@ git branch "nombre del branch"		para crear rama
 git checkout 				para obtener lo del master y posicionarse en la rama y pasarse de branch
 
 git push --set-upstream origin numero1	para subirlo
+
+git checkout master
+git merge "nombre de la rama"
